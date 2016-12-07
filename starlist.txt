@@ -1,0 +1,6 @@
+1, Steph Curry         ,  25.3,   6.9,   7.5 
+2, LeBron James        ,  23.2,   6.9,   9.9 
+3, Paul George         ,  25.4,   7.4,   4.5 
+4, James Harden        ,  29.2,   7.1,  12.1 
+5, Russell Westbrook   ,  29.8,  10.1,  11.0 
+6, Anthony Davis       ,  29.8,  12.2,   3.2
