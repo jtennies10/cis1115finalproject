@@ -30,7 +30,7 @@ public class StarAppMenu {
         double apg;
 
         while (choice != 0) {
-            System.out.println("\nPet App");
+            System.out.println("\nStar App");
             System.out.println("0 = Quit");
             System.out.println("1 = Retrieve All Records");
             System.out.println("2 = Create New Record");
@@ -95,7 +95,7 @@ public class StarAppMenu {
                 System.out.printf("Standard Deviation for Points Per Game: %.2f\n",
                         Statistics.standardDeviationPpg(data));
             } else {
-                System.out.println("Please enter a number between zero and five.");
+                System.out.println("Please enter a number between zero and twelve.");
             }
         }
     }
